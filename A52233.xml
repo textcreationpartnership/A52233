@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from the tower, France, and purgatory first, concerning the imprisonment of Sir Edward Deering ... with vote also of the House of Commons given against Bishop Wren ... likewise in a relation how the pope hath sent over a pardon for Canterburies absolution ...</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52233</idno><idno type="EEBO-CITATION">11771737</idno>
+  <idno type="VID">48888</idno>
+  <idno type="EEBO-PROQUEST">2240875603</idno>
+  
+            <idno type="STC">Wing N1022A</idno>
+            <idno type="STC">ESTC R31095</idno>
+            <idno type="OCLC">11771737</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from the tower, France, and purgatory first, concerning the imprisonment of Sir Edward Deering ... with vote also of the House of Commons given against Bishop Wren ... likewise in a relation how the pope hath sent over a pardon for Canterburies absolution ...</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] imprinted :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dering, Edward, --  Sir, 1598-1644.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48888:1"/>
+            <pb facs="tcp:48888:1"/>
+            <p>NEVVES FROM THE TOWER, FRANCE and PURGATORY.</p>
+            <p>First, CONCERNING THE IMPRISONENT of Sir <hi>Edward Deering,</hi> with the cause of the same. Then the time prefixed when the Bishops doe come to their Answer, with the manner of their Arraignment.</p>
+            <p>With the Vote also of the House of Commons given against bishop Wren, and how they have already committed to the House of Peeres.</p>
+            <p>Likwise in a relation how the pope hath sent over a pardon for Canterburies Absolution, with the manner of his Holinesse message.</p>
+            <p>As also how <hi>Pluto</hi> stith the Diabolicall Fiends are resolved to keep Holiday.</p>
+            <p>Imprinted in the yeare, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48888:2"/>
+            <pb facs="tcp:48888:2"/>
+            <p>VErtue is the more subject to censure then vice, and the purest Diademe more apt to take dirt, then a common stone: Yea, Wisdome and Learning is of more propensity to be taxed then Ignorance; Yet notwithstanding I in<g ref="char:EOLhyphen"/>geniously confesse with grave <hi>Cato, Nemo si<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cri<g ref="char:EOLhyphen"/>mine vivit,</hi> No man can live without a fault. Thus it hapned with sir <hi>Edward Deering,</hi> he that was once the glory of the people, the Fame of the House, the credit of his Country, the object of each eye, but concerning some speeches of his which was prin<g ref="char:EOLhyphen"/>ted onely by his owne consent, and without the As<g ref="char:EOLhyphen"/>sent of the whole House, he gave great distaste un<g ref="char:EOLhyphen"/>to them, and being found culpable therein, was immediately sent to the Tower.</p>
+            <p>The Parliament have forthwith ordered, that the accused Bishops should come to their answers next Tuesday, to answer those manifold Articles and Objections, whereof they are highly arraigned and impeached. The House of Commons have al<g ref="char:EOLhyphen"/>ready voted Bishop <hi>Wren</hi> dowre, and gave their censure to him, and have now committee him to the House of of Peeres for their concurrance with them.</p>
+            <pb facs="tcp:48888:3"/>
+            <p> The Epidemicall expectation of the infernall Crew for their blessed Martyt Canterbury, hath waited a long time to see his Grace, not only dis<g ref="char:EOLhyphen"/>invested of the miter, but to adorne their sulphu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ous Tribunall with his Archiepiscopall presence: And the Frenchmen, to whose papisticall Beades▪ Crosses and masses Canterbury stood infini ely in<g ref="char:EOLhyphen"/>gaged, have offered up their assiduous supplicati<g ref="char:EOLhyphen"/>ons and quotidian prayers to all the martyrs, Apo<g ref="char:EOLhyphen"/>stles, Saints, and the Virgin <hi>Mary,</hi> that his Grace when he dyes when he dyes might be released from pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tory. The whole imaginary Synod immedi<g ref="char:EOLhyphen"/>ately to consult, and every one willingly proffering himselfe to resigne his place for him: Yea, Triple headed Cerberus hath promised to prefer him to the chiefest and most metropolitan-like leate in all <hi>Pluto's</hi> Court, and Charon comunicaled his Co<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cel with the others to waft him, over the stygian Lake. And finally, the Tower will l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kewise do him great service on earth, for because he in his life<g ref="char:EOLhyphen"/>time made many Canons to defend its pre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>itised walls; therefore he shall be there Canonized. Thus is Canterbury circumducted with many assistance, and eexpecteth therefore to go to purgatory in as great pompe as ever Arch bishop did before him. To see the great metropolitan of a state have his grave th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s digged before his yes, by the invocati<g ref="char:EOLhyphen"/>on of his dearew Friends is no common spectacle, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o see the very Fiends of Hell wait upon them in this stately manner, is no vulgar curtesie. But I think purgatory will be too little to containe him, whose ambitious thoughts the whole Unverse, and
+<pb facs="tcp:48888:3"/>specula<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Heavens could no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> com<g ref="char:EOLhyphen"/>pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end in the competent spirit of Humility; and I suppose, when he shall once there appeare, he will superiously e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude al the other martyrs and holy saints, challenging the precedent priority, and so<g ref="char:EOLhyphen"/>veraignty to himselfe▪ But first I will delineate the expr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse description of every thing that interceded for his preferment thither: many Trenchmen ha<g ref="char:EOLhyphen"/>ving a long time subjected themselves to pathetical passion for their grand <hi>mecenas</hi> and English popes impris<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nment, di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igently l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red with unwearied dil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gence; to obtain first pardon from the Pope for Cant<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbury, and being clearly ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olved he should be canon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed for a blessed martyr; and they did likewise supplicate for his good releasement out o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tory. This pardon was forth with granted for his Vicegerent, and secondary, and a successive Emb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssage was then immediately transported from; France to the Tower in <hi>London,</hi> where Canterbury, with his confederates are most prelattically <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ged. And withall besides this obtained dardon for his absolution, they wer sudenly resolved to hatch some private and obscure stratagem to tel case and convey him from thence to France with great ex<g ref="char:EOLhyphen"/>pedition, which newes being annunciated to his Grace, he could no lesse then in a dilectable pres<g ref="char:EOLhyphen"/>byterial smile laugh, or rather triumph at the au<g ref="char:EOLhyphen"/>dience of so happy tydings. But not to bury al their affectionate courtesies in the oblivious sepulcher of Ingratitude he most respectively thanked and gratified their so loving &amp; courteous an Embassage
+<pb facs="tcp:48888:4"/>promising, that to the uttermost of his power, hee would repeat his assiduous <hi>Ave Meri's</hi> and <hi>Salve regina's</hi> to the remuneration and retribution of their zealous resolutions. Then they forthwith i<g ref="char:EOLhyphen"/>terated in a digested repetition their mature in<g ref="char:EOLhyphen"/>tents concerning the procurement of his his release that they had nursed and fomented a stupendeous plot for the same purpose, and how they were re<g ref="char:EOLhyphen"/>solved shortly to deliver the same, and withall they humbly desired and implored his Grace to con<g ref="char:EOLhyphen"/>duct Wren along with him, to be his concomitant and at their arrivall at <hi>Fr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce</hi> the one should bee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainted, and the other made Cardinall, but that lit<g ref="char:EOLhyphen"/>tle Bird is in the Cage already. Then his Grace seriously condescended thereunto, and remembring his humble and submissiive obedience to his Holi<g ref="char:EOLhyphen"/>nesse, they departed with great a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>crity, promising to recommend his service to the Pope: Then <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> being alone, began to revove againe, and a<g ref="char:EOLhyphen"/>gaine that happy Newes from France, and repea<g ref="char:EOLhyphen"/>ting many private Soliloquies to himselfe, hee be<g ref="char:EOLhyphen"/>gan to say with the antient Philosopher, <q xml:lang="lat">
+                  <hi>Nunquam minus solus, quam cum solus.</hi>
+               </q> Yet I must not deriate too far from Charon and Cerberus in a digressing abberration: Charon, I say, hath made ready his Ferry, and waites in ex<g ref="char:EOLhyphen"/>pectation of this Arch Prelate: Cerberus hee will reject the old Fabulous and Poeticall Ementions <hi>Offae,</hi> and nothing shall (he is resolved fully) excuse him but his owne person. <hi>Tantalus</hi> leaves off his sitiating appetite, and thirsts more to see Canter<g ref="char:EOLhyphen"/>bury there, then all his Golden Apples. <hi>Titius</hi>
+               <pb facs="tcp:48888:4"/>will not regard his Liver consuming Vulture, which daily in a ferates him, but will with solidity triumph to see his Grace there. The <hi>Danaides</hi> wil retract themselves from their endlesse labours and their sive running <hi>dolium,</hi> and would rejoyce to ex<g ref="char:EOLhyphen"/>pleat it with his briuish teares, but that I feare hee is too adamantine. <hi>Sysiphus</hi> would stay his Hill-rowling stone, and in an honest laughter howte at his Grace: Yea I doe proynostiente so much, that at his execution day, and pilgrimage to Hell, all thee Fiends would then keepe Holiday: but I sup<g ref="char:EOLhyphen"/>pose hee will communica<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e so much Grace unto that infernall Crew, that he will leave himselfe no Grace at all; yet give me leave to prescribe this Elegy before hir departure in consonance the for<g ref="char:EOLhyphen"/>mer Canto:</p>
+            <epigraph>
+               <q>
+                  <l>Memento mori,</l>
+                  <l>Remember Purgatory,</l>
+                  <l>While Frenchmen Canonize your story,</l>
+                  <l>Farewell poore Canterbury,</l>
+                  <l>Alas poore Canterbure.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
